@@ -214,8 +214,20 @@ section h2 {
   color: #fff;
   margin: 0 0 0 auto;
 }
+
 .form-contact button:hover {
   color: #fff;
+}
+
+.socmed {
+  display: flex;
+  list-style: none;
+  justify-content: center;
+}
+
+.socmed img {
+  width: 40px;
+  margin-right: 1rem;
 }
 
 footer {
